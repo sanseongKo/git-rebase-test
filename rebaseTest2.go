@@ -4,5 +4,9 @@ func test2() {
 
 }
 func test1() {
-	
+
+}
+
+func a() {
+
 }
