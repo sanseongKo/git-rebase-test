@@ -10,3 +10,7 @@ func test1() {
 func a() {
 
 }
+
+func b() {
+
+}
