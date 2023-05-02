@@ -1,16 +1,7 @@
 package git_rebase_test
 
-func test2() {
+import "fmt"
 
-}
-func test1() {
-
-}
-
-func a() {
-
-}
-
-func b() {
-
+func pullTest() {
+	fmt.Println("pull test 를 위한 변경 사항")
 }
